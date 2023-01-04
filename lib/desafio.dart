@@ -1,7 +1,9 @@
 void main() {
 
-  //! Detalhe sobre a String
-  //! A String é composta por 4 campos (Nome|Idade|Profissão|Estado onde mora)
+  // List all patients over the age of 20
+  // Count the patients by their profession
+  // Count the patients who live in SP
+  
   final pacients = [
     'Rodrigo Rahman|35|desenvolvedor|SP',
     'Manoel Silva|12|estudante|MG',
